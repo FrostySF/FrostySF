@@ -1,4 +1,4 @@
-- uses: Platane/snk@v2
+uses: Platane/snk@v2
   with:
     github_user_name: ${{ github.repository_owner }}
     outputs: |
