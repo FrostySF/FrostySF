@@ -5,7 +5,7 @@
 [![FrostySF's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrostySF&hide_border=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=radical)
+![https://github.com/FrostySF/](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=radical)
 <h2>I use</h2>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -15,6 +15,5 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <h2>I in</h2>
 
-![https://discordapp.com/users/1026461347925471242/](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-![https://t.me/Menya_tyt_net_i_ne_bilo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[https://discordapp.com/users/1026461347925471242/](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[https://t.me/Menya_tyt_net_i_ne_bilo(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
