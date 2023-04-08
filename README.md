@@ -15,5 +15,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <h2>I in</h2>
 
-![Discord(https://discordapp.com/users/1026461347925471242/)](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Telegram(https://t.me/Menya_tyt_net_i_ne_bilo)](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![https://discordapp.com/users/1026461347925471242/](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+![https://t.me/Menya_tyt_net_i_ne_bilo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
