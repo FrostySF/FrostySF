@@ -12,4 +12,4 @@
 
 ### Connect
 🌐 [kokonat.su](https://kokonat.su)  
-💬 [t.me/frostysf](https://t.me/frostysf)
+💬 [frostysf](https://t.me/frostysf)
