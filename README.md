@@ -11,5 +11,5 @@
 
 
 ### Connect
-🌐 [kokonat.su](https://kokonat.su)  
+🌐 [chinoharu.ru](https://chinoharu.ru)  
 💬 [frostysf](https://t.me/frostysf)
